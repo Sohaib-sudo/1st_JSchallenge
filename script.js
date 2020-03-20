@@ -1,6 +1,3 @@
-// var person = prompt("Entrez votre nom", "votre nom");
-// alert('Bonjour ' + person);
-
 function fonction1() 
 {
 	var name = prompt("Entrez votre nom", "votre nom");
