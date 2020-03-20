@@ -1,0 +1,55 @@
+*
+{ margin: 0;
+  padding: 0;}
+
+body
+{
+ font: normal .80em 'trebuchet ms', arial, sans-serif;
+  background: #F0EFE2 url(background.png) repeat;
+  color: #FFF;
+}
+
+
+.box
+{
+	top: 100px;
+    width: 380px;
+    height: 480px;
+    position: relative;
+    margin: 6% auto;
+    background: #fff;
+    color: black;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.title
+{
+	margin: 5px;
+	text-align: center;
+	position: relative;
+}
+
+.menu
+{
+	margin-top: 50px;
+	text-align: left;
+}
+
+.menu ul
+{
+	color: #fff;
+
+}
+
+.menu ul li
+{
+	margin: 10px;
+	padding: 10px;
+}
+
+.menu ul li a
+{
+	text-decoration: none;
+	color: black;
+}
